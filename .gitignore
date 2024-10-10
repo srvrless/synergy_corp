@@ -1,0 +1,5 @@
+venv
+.env
+followers_data.db
+__pycache__
+**lprof
